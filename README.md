@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 ```
@@ -304,3 +305,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 Made with ❤️ by Team TodMen · Chulalongkorn University 2025
 
 </div>
+=======
+
+>>>>>>> 75860cc53165b6253fd1361fb5ff5e5deaa8aca0
