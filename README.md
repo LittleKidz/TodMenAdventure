@@ -67,7 +67,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center"><strong>⚔️ Knight</strong></td>
+      <td align="center"><strong> Knight</strong></td>
       <td align="center">120</td>
       <td align="center">18</td>
       <td align="center">7</td>
@@ -75,7 +75,7 @@
       <td>Highest HP & DEF — the tank</td>
     </tr>
     <tr>
-      <td align="center"><strong>🏹 Archer</strong></td>
+      <td align="center"><strong> Archer</strong></td>
       <td align="center">85</td>
       <td align="center">24</td>
       <td align="center">3</td>
