@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
 
 ```
@@ -16,7 +16,7 @@
 ╚═╝  ╚═╝╚═════╝   ╚═══╝  ╚══════╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝
 ```
 
-### ⚔️ A 2-Player Turn-Based Strategy Battle Game
+### A 2-Player Turn-Based Strategy Battle Game
 
 [![Java](https://img.shields.io/badge/Java-17%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![JavaFX](https://img.shields.io/badge/JavaFX-17%2B-0076C8?style=for-the-badge&logo=java&logoColor=white)](https://openjfx.io/)
