@@ -174,7 +174,7 @@ Each battle turn is **simultaneous** — both players choose an action secretly 
 java --module-path {javafx_path} --add-modules
 javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.web,javafx.swing 
 --enable-nativeaccess=javafx.graphics,javafx.media 
--jar TodMenAdventure-1.ja
+-jar TodMenAdventure-1.jar
 
 ```
 
